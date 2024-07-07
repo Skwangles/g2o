@@ -32,6 +32,7 @@
 
 #include "g2o/stuff/misc.h"
 #include "se3_ops.h"
+#include <cassert>
 
 namespace g2o {
 
