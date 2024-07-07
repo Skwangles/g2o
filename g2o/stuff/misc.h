@@ -28,6 +28,7 @@
 #define G2O_STUFF_MISC_H
 
 #include <cmath>
+#include <cassert>
 
 /** @addtogroup utils **/
 // @{
