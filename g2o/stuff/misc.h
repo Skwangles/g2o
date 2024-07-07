@@ -29,6 +29,7 @@
 
 #include <cmath>
 #include <memory>
+#include <cassert>
 
 #include "g2o/config.h"
 #include "macros.h"
